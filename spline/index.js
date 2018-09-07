@@ -69,6 +69,18 @@ app.directive('hcChart', function () {
         },
         link: function (scope, element) {
             var options = {
+                exporting: {
+                    chartOptions: { // specific options for the exported image
+                        plotOptions: {
+                            series: {
+                                dataLabels: {
+                                    enabled: true
+                                }
+                            }
+                        }
+                    },
+                    fallbackToExportServer: false
+                },
                 chart: {
                     type: 'spline',
                     backgroundColor: 'rgba(0, 0, 0, 0.0)',
