@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/t6-origin.14d7272d.jpg"
   },
   {
-    "revision": "c77cbe5e7e967d12a32a",
+    "revision": "7063b4eb1ec30ca2cc65",
     "url": "/static/css/main.03a48c2a.chunk.css"
   },
   {
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/static/media/t5-origin.df3c60b8.jpg"
   },
   {
-    "revision": "c77cbe5e7e967d12a32a",
-    "url": "/static/js/main.c77cbe5e.chunk.js"
+    "revision": "7063b4eb1ec30ca2cc65",
+    "url": "/static/js/main.7063b4eb.chunk.js"
   },
   {
     "revision": "a587eb2b8beac31df4dfa03fae760455",
@@ -272,12 +272,12 @@ self.__precacheManifest = [
     "url": "/static/media/MYRIADPRO-COND.8b8a29e2.woff"
   },
   {
-    "revision": "d1846886b009a596fef09f1b69f9b548",
-    "url": "/static/media/MyriadPro-Light.d1846886.woff"
-  },
-  {
     "revision": "f6185ef4169956b114309589af2daac8",
     "url": "/static/media/MYRIADPRO-CONDIT.f6185ef4.woff"
+  },
+  {
+    "revision": "d1846886b009a596fef09f1b69f9b548",
+    "url": "/static/media/MyriadPro-Light.d1846886.woff"
   },
   {
     "revision": "6fd5c55d90e96c8af1041794ab70f5f2",
@@ -312,7 +312,7 @@ self.__precacheManifest = [
     "url": "/static/media/GOUDYSTO.a72a7fbc.TTF"
   },
   {
-    "revision": "8ffc32d3f1edaaafd3457ff567aa692e",
+    "revision": "641ed18a3f35efe702aafb7d5ba181fa",
     "url": "/index.html"
   }
 ];
